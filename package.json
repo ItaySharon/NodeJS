@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Testing NodeJS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItaySharon/NodeJS.git"
+  },
+  "keywords": [
+    "testing",
+    "helloworld"
+  ],
+  "author": "ItaySharon",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/ItaySharon/NodeJS/issues"
+  },
+  "homepage": "https://github.com/ItaySharon/NodeJS#readme"
+}
